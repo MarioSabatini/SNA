@@ -34,7 +34,7 @@ centrality = nx.betweenness_centrality(G, weight='weight', normalized=True)
 top3_nodes = sorted(centrality.items(), key=lambda x: x[1], reverse=True)[:3]
 #nodes_to_remove = [n for n, _ in top3_nodes]
 
-print("🔻 Rimuovendo i nodi critici:")
+print(" Rimuovendo i nodi critici:")
 #for name in nodes_to_remove:
 #    print(f"- {name}")
 
@@ -109,4 +109,4 @@ html_with_legend = html_content.replace("</body>", legend_html + "\n</body>")
 with open(output_file, "w", encoding="utf-8") as f:
     f.write(html_with_legend)
 
-print(f"\n✅ Grafo salvato in: {output_file}")
+print(f"\n Grafo salvato in: {output_file}")

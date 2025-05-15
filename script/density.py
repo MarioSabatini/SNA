@@ -11,4 +11,4 @@ for _, row in df.iterrows():
 
 # Calcola densità
 density = nx.density(G)
-print(f"📊 Densità della rete: {density:.4f}")
+print(f" Densità della rete: {density:.4f}")

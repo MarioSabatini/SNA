@@ -28,6 +28,6 @@ plt.grid(axis='y')
 plt.savefig("top10_stazioni_traffico.png", dpi=300)
 plt.show()
 
-print("✅ Dati e grafico salvati:")
+print(" Dati e grafico salvati:")
 print("- top10_stazioni_traffico.png")
 print("- traffico_totale_per_stazione.csv")

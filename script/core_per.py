@@ -15,8 +15,8 @@ for _, row in df.iterrows():
 core_numbers = nx.core_number(G)
 max_core = max(core_numbers.values())
 
-print(f"🔍 Core massimo: {max_core}")
-print("📌 Esempi di nodi nel core massimo:")
+print(f" Core massimo: {max_core}")
+print(" Esempi di nodi nel core massimo:")
 for node, k in core_numbers.items():
     if k == max_core:
         print(f"- {node} (core={k})")
@@ -46,4 +46,4 @@ plt.tight_layout()
 plt.savefig("core_periphery_graph.png", dpi=300)
 plt.show()
 
-print("✅ Grafo salvato in: core_periphery_graph.png")
+print(" Grafo salvato in: core_periphery_graph.png")

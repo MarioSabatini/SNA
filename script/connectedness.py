@@ -20,7 +20,7 @@ components = list(nx.connected_components(G))
 largest_component_size = max(len(c) for c in components)
 
 # === Risultati ===
-print("\n📊 Connectedness della rete:")
+print("\n Connectedness della rete:")
 print(f"- La rete è connessa? {'Sì' if is_connected else 'No'}")
 print(f"- Numero di componenti connesse: {num_components}")
 print(f"- Numero di nodi nella componente più grande: {largest_component_size}")

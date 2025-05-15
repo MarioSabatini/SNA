@@ -12,8 +12,8 @@ for _, row in df.iterrows():
 
 # === 3. Trova i nodi critici (articulation points) ===
 cut_nodes = list(nx.articulation_points(G))
-print(f"🔧 Trovati {len(cut_nodes)} nodi critici.")
-print("📌 Esempi:", cut_nodes[:10])
+print(f" Trovati {len(cut_nodes)} nodi critici.")
+print(" Esempi:", cut_nodes[:10])
 
 # === 4. Visualizzazione ===
 pos = nx.spring_layout(G, seed=42, k=10.0, iterations=500)
@@ -45,4 +45,4 @@ plt.show()
 
 # === 6. Salva lista in CSV ===
 pd.DataFrame(cut_nodes, columns=["Critical_Station"]).to_csv("articulation_points.csv", index=False)
-print("✅ Grafico e lista salvati.")
+print(" Grafico e lista salvati.")

@@ -52,7 +52,7 @@ alpha = fit.power_law.alpha
 xmin = fit.power_law.xmin
 p_value = fit.power_law.KS()
 
-print("\n📊 Risultati power law fit:")
+print("\n Risultati power law fit:")
 print(f"- α (esponente): {alpha:.4f}")
 print(f"- x_min (cutoff): {xmin}")
 print(f"- p-value: {p_value:.4f}")

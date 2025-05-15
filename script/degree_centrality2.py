@@ -34,4 +34,4 @@ plt.tight_layout()
 plt.savefig(output_image, dpi=300)
 plt.show()
 
-print(f"\n✅ Grafico salvato come: {output_image}")
+print(f"\n Grafico salvato come: {output_image}")

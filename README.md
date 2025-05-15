@@ -60,19 +60,12 @@ Data is derived from public sources (e.g., Transport for London) and includes:
 
 ---
 
-## 📑 Report
-
-The full report with methodology, figures, and interpretations is available in `/report/` as a PDF and LaTeX source.
-
----
 
 ## 🧠 Authors
 
 - Emanuele Grasso
 - Gregorio Petruzzi
 - Mario Sabatini
-
-Bachelor's in Computer Science – Social Network Analysis Project @ Sapienza University of Rome
 
 ---
 
@@ -81,9 +74,3 @@ Bachelor's in Computer Science – Social Network Analysis Project @ Sapienza Un
 This project is for academic and educational use only. Refer to `LICENSE` for details.
 
 ---
-
-## 🚀 Future Work
-
-- Integrate time-based data (e.g., rush hour vs off-peak)
-- Explore multilayer models (lines, modes, interchanges)
-- Simulate cascading failures and recovery dynamics

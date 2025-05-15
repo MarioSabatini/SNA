@@ -10,9 +10,6 @@ This repository contains the dataset, scripts, and report for a Social Network A
 .
 ├── data/                 # Dataset files (e.g., links, stations, weights)
 ├── scripts/              # Python scripts for graph analysis
-├── figures/              # Generated plots and visualizations
-├── results/              # Output files (e.g., tables, summaries)
-├── report/               # LaTeX or PDF version of the final report
 └── README.md             # Project documentation
 ```
 

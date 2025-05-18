@@ -3,7 +3,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # === 1. Carica dati e crea grafo ===
-df = pd.read_csv("filtered_weekly_link_loads.csv")
+df = pd.read_csv("../data/filtered_weekly_link_loads.csv")
 
 G_full = nx.Graph()
 for _, row in df.iterrows():

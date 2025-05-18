@@ -6,7 +6,7 @@ import numpy as np
 import powerlaw  # pip install powerlaw
 
 # === Configurazione ===
-csv_file = "filtered_weekly_link_loads.csv"
+csv_file = "../data/filtered_weekly_link_loads.csv"
 directed = True  # True per DiGraph (rete direzionale)
 
 # === Carica dati ===

@@ -3,7 +3,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # === 1. Carica CSV ===
-df = pd.read_csv("filtered_weekly_link_loads.csv")
+df = pd.read_csv("../data/filtered_weekly_link_loads.csv")
 
 # === 2. Costruisci grafo non diretto ===
 G = nx.Graph()

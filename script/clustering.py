@@ -3,7 +3,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # === 1. Caricamento dati ===
-csv_file = "filtered_weekly_link_loads.csv"
+csv_file = "../data/filtered_weekly_link_loads.csv"
 df = pd.read_csv(csv_file)
 
 # === 2. Crea grafo non diretto per clustering ===

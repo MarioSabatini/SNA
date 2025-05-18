@@ -3,7 +3,7 @@ import networkx as nx
 from pyvis.network import Network
 
 # === Config ===
-csv_file = "filtered_weekly_link_loads.csv"
+csv_file = "../data/filtered_weekly_link_loads.csv"
 output_file = "grafo_senza_critici.html"
 
 # === Line colors ===

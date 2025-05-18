@@ -2,7 +2,7 @@ import pandas as pd
 import networkx as nx
 
 # === Caricamento CSV ===
-csv_file = "filtered_weekly_link_loads.csv"
+csv_file = "../data/filtered_weekly_link_loads.csv"
 df = pd.read_csv(csv_file)
 
 # === Costruzione del grafo diretto ===

@@ -2,11 +2,11 @@ import pandas as pd
 import networkx as nx
 
 # === Caricamento CSV ===
-csv_file = "../data/filtered_weekly_link_loads.csv"
+csv_file = "../data/remaining_nodes_after_collapse_degree.csv"
 df = pd.read_csv(csv_file)
 
-# === Costruzione del grafo diretto ===
-G_directed = nx.DiGraph()
+# === Costruzione del grafo non orientato ===
+G_directed = nx.Graph()
 for _, row in df.iterrows():
     G_directed.add_edge(row["From"], row["To"], weight=row["Load"], line=row["Line"])
 

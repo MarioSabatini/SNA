@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 
 # === Configurazione ===
 csv_file = "../data/filtered_weekly_link_loads.csv"
+
 output_image = "top10_degree_centrality_barplot.png"
 
 # === Carica dati ===

@@ -3,7 +3,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # === Configurazione ===
-csv_file = "../data/filtered_weekly_link_loads.csv"
+csv_file = "../data/remaining_nodes_after_collapse_degree.csv"
 output_image = "top10_betweenness_barplot.png"
 
 # === Carica dati CSV ===
@@ -12,7 +12,7 @@ df = pd.read_csv(csv_file)
 # === Costruzione grafo diretto ===
 G = nx.DiGraph()
 for _, row in df.iterrows():
-    G.add_edge(row["From"], row["To"], weight=row["Load"], line=row["Line"])
+    G.add_edge(row["From"], row["To"], weight=row["Inverse_Load"], line=row["Line"])
 
 # === Calcola betweenness centrality pesata ===
 print("Calcolo della betweenness centrality...")

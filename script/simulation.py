@@ -20,15 +20,21 @@ original_clustering = nx.average_clustering(G_full)
 # === 4. RIMOZIONE MIRATA (top 5 betweenness) ===
 centrality = nx.betweenness_centrality(G_full, weight='weight', normalized=True)
 top_nodes = sorted(centrality.items(), key=lambda x: x[1], reverse=True)[:5]
+# === 4. RIMOZIONE MIRATA (top 5 betweenness) ===
+centrality = nx.betweenness_centrality(G_full, weight='weight', normalized=True)
+top_nodes = sorted(centrality.items(), key=lambda x: x[1], reverse=True)[:5]
 nodes_to_remove = [n for n, _ in top_nodes]
+
+print("\n🔻 Nodi rimossi (Top 5 Betweenness Centrality):")
+for i, node in enumerate(nodes_to_remove, 1):
+    print(f"{i}. {node} (centralità: {centrality[node]:.4f})")
+
 
 G_target = G_full.copy()
 G_target.remove_nodes_from(nodes_to_remove)
 
 # === 5. METRICHE DOPO LA RIMOZIONE ===
-target_density = nx.density(G_target)
 target_connected = nx.is_connected(G_target)
-target_clustering = nx.average_clustering(G_target)
 
 # === 6. Visualizzazione ===
 # Originale

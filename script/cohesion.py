@@ -3,7 +3,7 @@ import pandas as pd
 import networkx as nx
 
 # Carica CSV
-df = pd.read_csv("../data/filtered_weekly_link_loads.csv")
+df = pd.read_csv("../data/network_without_critic_nodes.csv")
 
 # Crea grafo NON diretto per l'analisi della coesione
 G = nx.Graph()

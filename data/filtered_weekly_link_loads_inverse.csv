@@ -1,0 +1,723 @@
+From,To,Line,Load
+Acton Town,Chiswick Park,District,8.511318785768039e-06
+Acton Town,Ealing Common,District,8.922527518711488e-06
+Acton Town,Ealing Common,Piccadilly,4.7437623990052295e-06
+Acton Town,South Ealing,Piccadilly,2.1005698135676556e-06
+Acton Town,Turnham Green,Piccadilly,1.435267332904141e-06
+Aldgate,Liverpool Street LU,H&C and Circle,6.543429897616978e-06
+Aldgate,Liverpool Street LU,Metropolitan,1.1498648905688452e-05
+Aldgate,Tower Hill,H&C and Circle,6.258470409064727e-06
+Aldgate East,Liverpool Street LU,H&C and Circle,3.7921377862130903e-06
+Aldgate East,Tower Hill,District,1.5290020855632303e-06
+Aldgate East,Whitechapel,District,1.792678437051059e-06
+Aldgate East,Whitechapel,H&C and Circle,5.056510198706654e-06
+Alperton,Park Royal,Piccadilly,5.439333088968768e-06
+Alperton,Sudbury Town,Piccadilly,6.807175210723578e-06
+Amersham,Chalfont & Latimer,Metropolitan,7.127650721373748e-05
+Angel,King's Cross St. Pancras,Northern,9.963314643658855e-07
+Angel,Old Street,Northern,1.015069355165933e-06
+Archway,Highgate,Northern,1.8613619529648573e-06
+Archway,Tufnell Park,Northern,1.5690294106173205e-06
+Arnos Grove,Bounds Green,Piccadilly,4.566544393956651e-06
+Arnos Grove,Southgate,Piccadilly,6.22461817392913e-06
+Arsenal,Finsbury Park LU,Piccadilly,1.8752640438783837e-06
+Arsenal,Holloway Road,Piccadilly,1.6098043539811844e-06
+Baker Street,Bond Street,Jubilee,9.208356968802303e-07
+Baker Street,Edgware Road (DIS),H&C and Circle,1.5931885773847956e-06
+Baker Street,Finchley Road,Metropolitan,1.6737937010325423e-06
+Baker Street,Great Portland Street,H&C and Circle,1.6262617683821055e-06
+Baker Street,Great Portland Street,Metropolitan,1.968148014507021e-06
+Baker Street,Marylebone LU,Bakerloo,1.2292775381905361e-06
+Baker Street,Regent's Park,Bakerloo,1.2798234040823477e-06
+Baker Street,St. John's Wood,Jubilee,1.126358184332561e-06
+Balham LU,Clapham South,Northern,1.2257624296230103e-06
+Balham LU,Tooting Bec,Northern,1.526384525723484e-06
+Bank and Monument,Cannon Street LU,District,1.2619037568691575e-06
+Bank and Monument,Cannon Street LU,H&C and Circle,6.015138308349373e-06
+Bank and Monument,Liverpool Street LU,Central,6.892911268480305e-07
+Bank and Monument,London Bridge LU,Northern,9.003487404741561e-07
+Bank and Monument,Moorgate,Northern,9.086508744458315e-07
+Bank and Monument,St. Paul's,Central,6.749028068145847e-07
+Bank and Monument,Tower Hill,District,1.3053830430861888e-06
+Bank and Monument,Tower Hill,H&C and Circle,6.532011411166375e-06
+Bank and Monument,Waterloo LU,Waterloo & City,6.324567858346445e-06
+Barbican,Farringdon,H&C and Circle,1.7642533166568686e-06
+Barbican,Farringdon,Metropolitan,2.6780677879269606e-06
+Barbican,Moorgate,H&C and Circle,1.7588705980287397e-06
+Barbican,Moorgate,Metropolitan,2.727425984771749e-06
+Barking,East Ham,District,2.5073689993894444e-06
+Barking,East Ham,H&C and Circle,1.4038639673500448e-05
+Barking,Upney,District,3.0299602193134954e-06
+Barkingside,Fairlop,Central,1.2731511984639042e-05
+Barkingside,Newbury Park,Central,9.233941114753662e-06
+Barons Court,Earl's Court,Piccadilly,1.2622499138147488e-06
+Barons Court,Hammersmith (DIS),District,2.2438208212898158e-06
+Barons Court,Hammersmith (DIS),Piccadilly,1.2891777900084263e-06
+Barons Court,West Kensington,District,1.8934500604409163e-06
+Battersea Power Station,Nine Elms,Northern,4.999171088122921e-06
+Bayswater,Notting Hill Gate,District,6.6331944448394326e-06
+Bayswater,Notting Hill Gate,H&C and Circle,5.3466978497666175e-06
+Bayswater,Paddington TfL,District,6.22431921494797e-06
+Bayswater,Paddington TfL,H&C and Circle,8.903427922778146e-06
+Becontree,Dagenham Heathway,District,4.029722498816744e-06
+Becontree,Upney,District,3.337187855577969e-06
+Belsize Park,Chalk Farm,Northern,1.6297421529712531e-06
+Belsize Park,Hampstead,Northern,1.897985280143789e-06
+Bermondsey,Canada Water,Jubilee,6.089362036788474e-07
+Bermondsey,London Bridge LU,Jubilee,6.146618645019515e-07
+Bethnal Green LU,Liverpool Street LU,Central,7.224370062514441e-07
+Bethnal Green LU,Mile End,Central,7.423812622483228e-07
+Blackfriars LU,Mansion House,District,1.1467290703365046e-06
+Blackfriars LU,Mansion House,H&C and Circle,5.363176486603897e-06
+Blackfriars LU,Temple,District,1.0849461476283212e-06
+Blackfriars LU,Temple,H&C and Circle,4.950229555725449e-06
+Blackhorse Road,Tottenham Hale LU,Victoria,2.0008095945088104e-06
+Blackhorse Road,Walthamstow Central,Victoria,3.377920611197874e-06
+Bond Street,Baker Street,Jubilee,9.68541652543407e-07
+Bond Street,Green Park,Jubilee,8.190186539229768e-07
+Bond Street,Marble Arch,Central,8.98688533486026e-07
+Bond Street,Oxford Circus,Central,7.93202473495578e-07
+Borough,Elephant & Castle LU,Northern,1.2066384641242815e-06
+Borough,London Bridge LU,Northern,1.1263792010712365e-06
+Boston Manor,Northfields,Piccadilly,2.2738009333759992e-06
+Boston Manor,Osterley,Piccadilly,2.5354479678834612e-06
+Bounds Green,Arnos Grove,Piccadilly,4.598252474123623e-06
+Bounds Green,Wood Green,Piccadilly,3.2879707943693024e-06
+Bow Road,Bromley-by-Bow,District,1.6981875841892095e-06
+Bow Road,Bromley-by-Bow,H&C and Circle,5.536775975671902e-06
+Bow Road,Mile End,District,1.6138007158467717e-06
+Bow Road,Mile End,H&C and Circle,4.785185037669608e-06
+Brent Cross,Golders Green,Northern,2.5340774069204762e-06
+Brent Cross,Hendon Central,Northern,2.915773544356052e-06
+Brixton LU,Stockwell,Victoria,2.2030354634735434e-06
+Bromley-by-Bow,Bow Road,District,1.7254215924741818e-06
+Bromley-by-Bow,Bow Road,H&C and Circle,5.2955057363085224e-06
+Bromley-by-Bow,West Ham,District,1.783908125545578e-06
+Bromley-by-Bow,West Ham,H&C and Circle,5.981360658048173e-06
+Buckhurst Hill,Loughton,Central,5.759361220430354e-06
+Buckhurst Hill,Woodford,Central,4.885763920570574e-06
+Burnt Oak,Colindale,Northern,6.6686324629539186e-06
+Burnt Oak,Edgware,Northern,1.1440812449101815e-05
+Caledonian Road,Holloway Road,Piccadilly,1.5741253762978863e-06
+Caledonian Road,King's Cross St. Pancras,Piccadilly,1.3270982466535731e-06
+Camden Town (Edgware),Chalk Farm,Northern,1.4996356153030872e-06
+Camden Town (Edgware),Euston LU,Northern,2.143768621030482e-06
+Camden Town (Edgware),Mornington Crescent,Northern,2.276869631585194e-06
+Camden Town (High Barnet),Euston LU,Northern,2.6261127826733663e-06
+Camden Town (High Barnet),Kentish Town,Northern,1.275358888306322e-06
+Camden Town (High Barnet),Mornington Crescent,Northern,2.3414271350550643e-06
+Canada Water,Bermondsey,Jubilee,6.290360967194822e-07
+Canada Water,Canary Wharf LU,Jubilee,6.542014142476578e-07
+Canary Wharf LU,Canada Water,Jubilee,6.915302529919619e-07
+Canary Wharf LU,North Greenwich,Jubilee,7.931478991448209e-07
+Canning Town,North Greenwich,Jubilee,9.328885514236634e-07
+Canning Town,West Ham,Jubilee,1.071492284165986e-06
+Cannon Street LU,Bank and Monument,District,1.2357828903337321e-06
+Cannon Street LU,Bank and Monument,H&C and Circle,5.82635364793836e-06
+Cannon Street LU,Mansion House,District,1.2224487023425575e-06
+Cannon Street LU,Mansion House,H&C and Circle,5.731146690212854e-06
+Canons Park,Queensbury,Jubilee,9.112872544869929e-06
+Canons Park,Stanmore,Jubilee,1.532506616740627e-05
+Chalfont & Latimer,Amersham,Metropolitan,8.035100815688759e-05
+Chalfont & Latimer,Chesham,Metropolitan,5.1997838392424675e-05
+Chalfont & Latimer,Chorleywood,Metropolitan,1.955094698297807e-05
+Chalk Farm,Belsize Park,Northern,1.676355332848426e-06
+Chalk Farm,Camden Town (Edgware),Northern,1.419622690438126e-06
+Chancery Lane,Holborn,Central,6.53714633784385e-07
+Chancery Lane,St. Paul's,Central,6.739734251630423e-07
+Charing Cross LU,Embankment,Bakerloo,1.8729918338046955e-06
+Charing Cross LU,Embankment,Northern,1.019967654950912e-06
+Charing Cross LU,Leicester Square,Northern,9.512251180022166e-07
+Charing Cross LU,Piccadilly Circus,Bakerloo,1.5318110416948711e-06
+Chesham,Chalfont & Latimer,Metropolitan,4.7043714796416545e-05
+Chigwell,Grange Hill,Central,9.684703188526047e-05
+Chigwell,Roding Valley,Central,6.63449832982846e-05
+Chiswick Park,Acton Town,District,9.522547152233053e-06
+Chiswick Park,Turnham Green,District,8.224112178407124e-06
+Chorleywood,Chalfont & Latimer,Metropolitan,2.1441520262316457e-05
+Chorleywood,Rickmansworth,Metropolitan,1.4416123214410409e-05
+Clapham Common,Clapham North,Northern,9.700054209407976e-07
+Clapham Common,Clapham South,Northern,1.1434975428986856e-06
+Clapham North,Clapham Common,Northern,1.0069521551699187e-06
+Clapham North,Stockwell,Northern,9.063314883126725e-07
+Clapham South,Balham LU,Northern,1.2967219704340564e-06
+Clapham South,Clapham Common,Northern,1.0827660948425668e-06
+Cockfosters,Oakwood,Piccadilly,3.089431792036517e-05
+Colindale,Burnt Oak,Northern,6.8964817877869165e-06
+Colindale,Hendon Central,Northern,3.6821273698721576e-06
+Colliers Wood,South Wimbledon,Northern,4.035504371337693e-06
+Colliers Wood,Tooting Broadway,Northern,2.7268366644048334e-06
+Covent Garden,Holborn,Piccadilly,1.1513498915360979e-06
+Covent Garden,Leicester Square,Piccadilly,1.1166730134689993e-06
+Croxley,Moor Park,Metropolitan,2.068338397601693e-05
+Croxley,Watford,Metropolitan,2.948314613765462e-05
+Dagenham East,Dagenham Heathway,District,6.1765597814857946e-06
+Dagenham East,Elm Park,District,8.606287373154473e-06
+Dagenham Heathway,Becontree,District,3.994460283791011e-06
+Dagenham Heathway,Dagenham East,District,6.195827783643693e-06
+Debden,Loughton,Central,8.20250939934128e-06
+Debden,Theydon Bois,Central,1.1310503665902696e-05
+Dollis Hill,Neasden,Jubilee,3.2670458439120497e-06
+Dollis Hill,Willesden Green,Jubilee,2.5972971191304684e-06
+Ealing Broadway,Ealing Common,District,9.39460011028239e-06
+Ealing Broadway,West Acton,Central,6.486080871020835e-06
+Ealing Common,Acton Town,District,8.63449453764389e-06
+Ealing Common,Acton Town,Piccadilly,4.6839882897516635e-06
+Ealing Common,Ealing Broadway,District,9.807261064082225e-06
+Ealing Common,North Ealing,Piccadilly,4.882166778904847e-06
+Earl's Court,Barons Court,Piccadilly,1.2029362732700935e-06
+Earl's Court,Gloucester Road,District,9.528182427360873e-07
+Earl's Court,Gloucester Road,Piccadilly,1.2167202842414317e-06
+Earl's Court,High Street Kensington,District,3.6646433993789253e-06
+Earl's Court,Kensington (Olympia),District,0.00021905848383830167
+Earl's Court,West Brompton,District,1.326544025061485e-06
+Earl's Court,West Kensington,District,2.0634981055160477e-06
+East Acton,North Acton,Central,2.1624290093272384e-06
+East Acton,White City,Central,1.8946113212276767e-06
+East Finchley,Finchley Central,Northern,2.7438205447775808e-06
+East Finchley,Highgate,Northern,2.317673829149803e-06
+East Ham,Barking,District,2.428979449373996e-06
+East Ham,Barking,H&C and Circle,1.4455650704481793e-05
+East Ham,Upton Park,District,1.9174554214649506e-06
+East Ham,Upton Park,H&C and Circle,7.852682539395608e-06
+East Putney,Putney Bridge,District,2.24639330815594e-06
+East Putney,Southfields,District,2.737393029049783e-06
+Eastcote,Rayners Lane,Metropolitan,5.788163520091861e-06
+Eastcote,Rayners Lane,Piccadilly,2.5800655298394487e-05
+Eastcote,Ruislip Manor,Metropolitan,7.024006913786882e-06
+Eastcote,Ruislip Manor,Piccadilly,2.863208684484538e-05
+Edgware,Burnt Oak,Northern,1.1270310990094478e-05
+Edgware Road (Bak),Marylebone LU,Bakerloo,1.7884315288613515e-06
+Edgware Road (Bak),Paddington TfL,Bakerloo,1.6442037745724367e-06
+Edgware Road (DIS),Baker Street,H&C and Circle,1.5249062336623836e-06
+Edgware Road (DIS),Paddington TfL,District,1.5997551336506065e-05
+Edgware Road (DIS),Paddington TfL,H&C and Circle,1.6988584209438127e-06
+Elephant & Castle LU,Borough,Northern,1.1623472509188232e-06
+Elephant & Castle LU,Kennington (Bank),Northern,1.2726904936049937e-06
+Elephant & Castle LU,Lambeth North,Bakerloo,6.995157106430681e-06
+Elm Park,Dagenham East,District,8.849771088555245e-06
+Elm Park,Hornchurch,District,1.362358072163695e-05
+Embankment,Charing Cross LU,Bakerloo,1.7860504643283418e-06
+Embankment,Charing Cross LU,Northern,1.026682764120925e-06
+Embankment,Temple,District,1.0573740423150824e-06
+Embankment,Temple,H&C and Circle,4.758561953559809e-06
+Embankment,Waterloo LU,Bakerloo,2.1782003926469717e-06
+Embankment,Waterloo LU,Northern,1.1047134342817556e-06
+Embankment,Westminster,District,1.0618957951897123e-06
+Embankment,Westminster,H&C and Circle,4.597585578277011e-06
+Epping,Theydon Bois,Central,1.3484057987063634e-05
+Euston LU,Camden Town (Edgware),Northern,1.8496810005934206e-06
+Euston LU,Camden Town (High Barnet),Northern,2.7289815331302583e-06
+Euston LU,King's Cross St. Pancras,Northern,1.173350353039885e-06
+Euston LU,King's Cross St. Pancras,Victoria,5.462390714207941e-07
+Euston LU,Mornington Crescent,Northern,1.2026802896202258e-06
+Euston LU,Warren Street,Northern,9.70060130827286e-07
+Euston LU,Warren Street,Victoria,4.884253507307816e-07
+Euston Square,Great Portland Street,H&C and Circle,1.6832490026349883e-06
+Euston Square,Great Portland Street,Metropolitan,2.0092946648207416e-06
+Euston Square,King's Cross St. Pancras,H&C and Circle,1.5777958204868204e-06
+Euston Square,King's Cross St. Pancras,Metropolitan,2.0501254086830795e-06
+Fairlop,Barkingside,Central,1.1962351851766505e-05
+Fairlop,Hainault,Central,1.6676880325883267e-05
+Farringdon,Barbican,H&C and Circle,1.7366504819423486e-06
+Farringdon,Barbican,Metropolitan,2.531762515033989e-06
+Farringdon,King's Cross St. Pancras,H&C and Circle,1.6670711417172022e-06
+Farringdon,King's Cross St. Pancras,Metropolitan,2.2465317258490576e-06
+Finchley Central,East Finchley,Northern,2.9799684410228314e-06
+Finchley Central,Mill Hill East,Northern,2.9995587872741226e-05
+Finchley Central,West Finchley,Northern,4.5201548899144395e-06
+Finchley Road,Baker Street,Metropolitan,1.7407601476993135e-06
+Finchley Road,Swiss Cottage,Jubilee,1.183829167485668e-06
+Finchley Road,Wembley Park,Metropolitan,1.3755640598948852e-06
+Finchley Road,West Hampstead LU,Jubilee,1.7239860663257223e-06
+Finsbury Park LU,Arsenal,Piccadilly,1.7074414782120253e-06
+Finsbury Park LU,Highbury & Islington,Victoria,6.382894790575624e-07
+Finsbury Park LU,Manor House,Piccadilly,1.4172993891035415e-06
+Finsbury Park LU,Seven Sisters,Victoria,9.414969750328283e-07
+Fulham Broadway,Parsons Green,District,1.6549392277669709e-06
+Fulham Broadway,West Brompton,District,1.4433096722122126e-06
+Gants Hill,Newbury Park,Central,5.913190866863417e-06
+Gants Hill,Redbridge,Central,3.523724479296296e-06
+Gloucester Road,Earl's Court,District,1.0192519237227841e-06
+Gloucester Road,Earl's Court,Piccadilly,1.1114784012355128e-06
+Gloucester Road,High Street Kensington,H&C and Circle,4.00765045725528e-06
+Gloucester Road,South Kensington,District,9.082681778183885e-07
+Gloucester Road,South Kensington,H&C and Circle,3.1758026901511593e-06
+Gloucester Road,South Kensington,Piccadilly,1.1932623071892486e-06
+Golders Green,Brent Cross,Northern,2.6977583450325763e-06
+Golders Green,Hampstead,Northern,2.044760682981812e-06
+Goldhawk Road,Hammersmith (H&C),H&C and Circle,5.737230725093476e-06
+Goldhawk Road,Shepherd's Bush Market,H&C and Circle,4.821081579801724e-06
+Goodge Street,Tottenham Court Road,Northern,9.328184166217035e-07
+Goodge Street,Warren Street,Northern,1.0257596111842114e-06
+Grange Hill,Chigwell,Central,9.285528280874706e-05
+Grange Hill,Hainault,Central,0.00013586003221133442
+Great Portland Street,Baker Street,H&C and Circle,1.7039049580908768e-06
+Great Portland Street,Baker Street,Metropolitan,1.993346773840877e-06
+Great Portland Street,Euston Square,H&C and Circle,1.6107411013623404e-06
+Great Portland Street,Euston Square,Metropolitan,1.984249517453941e-06
+Green Park,Bond Street,Jubilee,8.403740259343851e-07
+Green Park,Hyde Park Corner,Piccadilly,8.179438985916912e-07
+Green Park,Oxford Circus,Victoria,4.885647321316155e-07
+Green Park,Piccadilly Circus,Piccadilly,9.607888609424355e-07
+Green Park,Victoria LU,Victoria,5.105554503562123e-07
+Green Park,Westminster,Jubilee,7.690429446255819e-07
+Greenford,Northolt,Central,7.383647748965865e-06
+Greenford,Perivale,Central,4.933070077972749e-06
+Gunnersbury,Kew Gardens,District,5.914750459839107e-06
+Gunnersbury,Turnham Green,District,4.704154619803543e-06
+Hainault,Fairlop,Central,1.5585583128945247e-05
+Hainault,Grange Hill,Central,0.0001509299347090999
+Hammersmith (DIS),Barons Court,District,1.8904229173837285e-06
+Hammersmith (DIS),Barons Court,Piccadilly,1.363441766691678e-06
+Hammersmith (DIS),Ravenscourt Park,District,2.4044900476358977e-06
+Hammersmith (DIS),Turnham Green,Piccadilly,1.4736831996301463e-06
+Hammersmith (H&C),Goldhawk Road,H&C and Circle,5.5140509432117446e-06
+Hampstead,Belsize Park,Northern,1.8458766164900582e-06
+Hampstead,Golders Green,Northern,2.1541263799153795e-06
+Hanger Lane,North Acton,Central,3.7112916405901347e-06
+Hanger Lane,Perivale,Central,4.635836801713266e-06
+Harlesden,Stonebridge Park,Bakerloo,1.1875237471487906e-05
+Harlesden,Willesden Junction,Bakerloo,8.739479398608918e-06
+Harrow & Wealdstone,Kenton,Bakerloo,3.4256431214481445e-05
+Harrow-on-the-Hill,North Harrow,Metropolitan,4.398370639665239e-06
+Harrow-on-the-Hill,Northwick Park,Metropolitan,1.826448750472843e-06
+Harrow-on-the-Hill,West Harrow,Metropolitan,4.5075246889733665e-06
+Hatton Cross,Heathrow Terminal 4 LU,Piccadilly,2.8063830659897886e-05
+Hatton Cross,Heathrow Terminals 123 LU,Piccadilly,5.727031775991061e-06
+Hatton Cross,Hounslow West,Piccadilly,3.8299170010828565e-06
+Heathrow Terminal 4 LU,Heathrow Terminals 123 LU,Piccadilly,2.8260963522547122e-05
+Heathrow Terminal 5 LU,Heathrow Terminals 123 LU,Piccadilly,1.0875373303529363e-05
+Heathrow Terminals 123 LU,Hatton Cross,Piccadilly,4.158986770808886e-06
+Heathrow Terminals 123 LU,Heathrow Terminal 5 LU,Piccadilly,1.261761618422166e-05
+Hendon Central,Brent Cross,Northern,2.7352587143833343e-06
+Hendon Central,Colindale,Northern,3.85715042722775e-06
+High Barnet,Totteridge & Whetstone,Northern,1.3954688592309697e-05
+High Street Kensington,Earl's Court,District,4.838887342681771e-06
+High Street Kensington,Gloucester Road,H&C and Circle,3.0164554886223356e-06
+High Street Kensington,Notting Hill Gate,District,3.7510978782819558e-06
+High Street Kensington,Notting Hill Gate,H&C and Circle,4.990817673435053e-06
+Highbury & Islington,Finsbury Park LU,Victoria,6.888198002917544e-07
+Highbury & Islington,King's Cross St. Pancras,Victoria,5.694035523409925e-07
+Highgate,Archway,Northern,1.9455180487723095e-06
+Highgate,East Finchley,Northern,2.1947399335945018e-06
+Hillingdon,Ickenham,Metropolitan,8.700990962417816e-06
+Hillingdon,Ickenham,Piccadilly,3.7708641090595024e-05
+Hillingdon,Uxbridge,Metropolitan,1.1150816342111492e-05
+Hillingdon,Uxbridge,Piccadilly,4.284494065330832e-05
+Holborn,Chancery Lane,Central,6.653253283344904e-07
+Holborn,Covent Garden,Piccadilly,1.084499183882552e-06
+Holborn,Russell Square,Piccadilly,1.1789321629205766e-06
+Holborn,Tottenham Court Road,Central,7.274784528670358e-07
+Holland Park,Notting Hill Gate,Central,1.2971334062746406e-06
+Holland Park,Shepherd's Bush LU,Central,1.4479663391082683e-06
+Holloway Road,Arsenal,Piccadilly,1.7711189563369641e-06
+Holloway Road,Caledonian Road,Piccadilly,1.437374017231161e-06
+Hornchurch,Elm Park,District,1.4390372984138862e-05
+Hornchurch,Upminster Bridge,District,2.090834755599688e-05
+Hounslow Central,Hounslow East,Piccadilly,2.9215303221366654e-06
+Hounslow Central,Hounslow West,Piccadilly,3.698428400184616e-06
+Hounslow East,Hounslow Central,Piccadilly,3.192077491683434e-06
+Hounslow East,Osterley,Piccadilly,2.528916652486305e-06
+Hounslow West,Hatton Cross,Piccadilly,4.280074511134239e-06
+Hounslow West,Hounslow Central,Piccadilly,3.358122461310346e-06
+Hyde Park Corner,Green Park,Piccadilly,8.576906177554771e-07
+Hyde Park Corner,Knightsbridge,Piccadilly,8.466604086113315e-07
+Ickenham,Hillingdon,Metropolitan,9.22583506821099e-06
+Ickenham,Hillingdon,Piccadilly,3.6385422813883614e-05
+Ickenham,Ruislip,Metropolitan,8.138675195588278e-06
+Ickenham,Ruislip,Piccadilly,3.58245114918713e-05
+Kennington (Bank),Elephant & Castle LU,Northern,1.2240483185772826e-06
+Kennington (Bank),Oval,Northern,1.2031043314927003e-06
+Kennington (Charing Cross),Nine Elms,Northern,3.7574457626959604e-06
+Kennington (Charing Cross),Oval,Northern,1.059412576283585e-05
+Kennington (Charing Cross),Waterloo LU,Northern,1.7136201383937907e-06
+Kensal Green,Queen's Park,Bakerloo,7.255899746630413e-06
+Kensal Green,Willesden Junction,Bakerloo,9.110770150567456e-06
+Kensington (Olympia),Earl's Court,District,0.00022949032869631076
+Kentish Town,Camden Town (High Barnet),Northern,1.279868164775506e-06
+Kentish Town,Tufnell Park,Northern,1.3852695606456149e-06
+Kenton,Harrow & Wealdstone,Bakerloo,5.3763376272426005e-05
+Kenton,South Kenton,Bakerloo,2.418830352014739e-05
+Kew Gardens,Gunnersbury,District,5.958090087354755e-06
+Kew Gardens,Richmond,District,8.017680263656802e-06
+Kilburn,West Hampstead LU,Jubilee,1.8220773023892071e-06
+Kilburn,Willesden Green,Jubilee,2.364393806915926e-06
+Kilburn Park,Maida Vale,Bakerloo,3.4025161390172924e-06
+Kilburn Park,Queen's Park,Bakerloo,4.627254697645795e-06
+King's Cross St. Pancras,Angel,Northern,9.935079376746933e-07
+King's Cross St. Pancras,Caledonian Road,Piccadilly,1.5175882670016602e-06
+King's Cross St. Pancras,Euston LU,Northern,1.155589188334751e-06
+King's Cross St. Pancras,Euston LU,Victoria,5.312797053516785e-07
+King's Cross St. Pancras,Euston Square,H&C and Circle,1.6181194454615312e-06
+King's Cross St. Pancras,Euston Square,Metropolitan,2.048854972082426e-06
+King's Cross St. Pancras,Farringdon,H&C and Circle,1.6530119977627653e-06
+King's Cross St. Pancras,Farringdon,Metropolitan,2.1763088147011076e-06
+King's Cross St. Pancras,Highbury & Islington,Victoria,5.996482756344064e-07
+King's Cross St. Pancras,Russell Square,Piccadilly,1.0942910486730979e-06
+Kingsbury,Queensbury,Jubilee,5.946923439544051e-06
+Kingsbury,Wembley Park,Jubilee,4.2451806192897815e-06
+Knightsbridge,Hyde Park Corner,Piccadilly,8.862930243455034e-07
+Knightsbridge,South Kensington,Piccadilly,9.654856239351406e-07
+Ladbroke Grove,Latimer Road,H&C and Circle,3.3728475838640656e-06
+Ladbroke Grove,Westbourne Park,H&C and Circle,2.6717194314163557e-06
+Lambeth North,Elephant & Castle LU,Bakerloo,8.042703017168582e-06
+Lambeth North,Waterloo LU,Bakerloo,5.109252671975338e-06
+Lancaster Gate,Marble Arch,Central,9.564100056182377e-07
+Lancaster Gate,Queensway,Central,1.040447807067934e-06
+Latimer Road,Ladbroke Grove,H&C and Circle,3.2597885782345476e-06
+Latimer Road,Wood Lane,H&C and Circle,3.5463031963345454e-06
+Leicester Square,Charing Cross LU,Northern,9.63506134159272e-07
+Leicester Square,Covent Garden,Piccadilly,1.1095562674658927e-06
+Leicester Square,Piccadilly Circus,Piccadilly,9.983082870592463e-07
+Leicester Square,Tottenham Court Road,Northern,9.055796254465896e-07
+Leyton,Leytonstone,Central,1.1829634889400268e-06
+Leyton,Stratford,Central,9.750314683158397e-07
+Leytonstone,Leyton,Central,1.1464950900071754e-06
+Leytonstone,Snaresbrook,Central,2.4943928903794746e-06
+Leytonstone,Wanstead,Central,2.94972344776181e-06
+Liverpool Street LU,Aldgate,H&C and Circle,5.758039777955682e-06
+Liverpool Street LU,Aldgate,Metropolitan,9.82283223159828e-06
+Liverpool Street LU,Aldgate East,H&C and Circle,3.907488531213418e-06
+Liverpool Street LU,Bank and Monument,Central,6.831894913338356e-07
+Liverpool Street LU,Bethnal Green LU,Central,7.065135270830509e-07
+Liverpool Street LU,Moorgate,H&C and Circle,1.9540295978482158e-06
+Liverpool Street LU,Moorgate,Metropolitan,3.62603666350565e-06
+London Bridge LU,Bank and Monument,Northern,8.467665795855304e-07
+London Bridge LU,Bermondsey,Jubilee,5.974859315421887e-07
+London Bridge LU,Borough,Northern,1.1655282756217117e-06
+London Bridge LU,Southwark,Jubilee,5.826918830406259e-07
+Loughton,Buckhurst Hill,Central,5.759657420266152e-06
+Loughton,Debden,Central,8.25422963087133e-06
+Maida Vale,Kilburn Park,Bakerloo,3.8121276428795145e-06
+Maida Vale,Warwick Avenue,Bakerloo,2.8957373267550026e-06
+Manor House,Finsbury Park LU,Piccadilly,1.378242587762455e-06
+Manor House,Turnpike Lane,Piccadilly,1.6483048284297795e-06
+Mansion House,Blackfriars LU,District,1.17141668329322e-06
+Mansion House,Blackfriars LU,H&C and Circle,5.4904594907529416e-06
+Mansion House,Cannon Street LU,District,1.203450483466311e-06
+Mansion House,Cannon Street LU,H&C and Circle,5.646022028285318e-06
+Marble Arch,Bond Street,Central,8.683019362258808e-07
+Marble Arch,Lancaster Gate,Central,9.896264190491214e-07
+Marylebone LU,Baker Street,Bakerloo,1.4983930356442147e-06
+Marylebone LU,Edgware Road (Bak),Bakerloo,1.4772465909695402e-06
+Mile End,Bethnal Green LU,Central,7.676662753855664e-07
+Mile End,Bow Road,District,1.5943876367056648e-06
+Mile End,Bow Road,H&C and Circle,5.056021415350001e-06
+Mile End,Stepney Green,District,1.796260073188264e-06
+Mile End,Stepney Green,H&C and Circle,5.488744308581588e-06
+Mile End,Stratford,Central,8.276861341114446e-07
+Mill Hill East,Finchley Central,Northern,2.8999323324705627e-05
+Moor Park,Croxley,Metropolitan,2.1136395359113034e-05
+Moor Park,Northwood,Metropolitan,6.913976478350666e-06
+Moor Park,Rickmansworth,Metropolitan,1.2930291351634912e-05
+Moorgate,Bank and Monument,Northern,9.366891476221023e-07
+Moorgate,Barbican,H&C and Circle,1.7801517047040606e-06
+Moorgate,Barbican,Metropolitan,2.8866835098230073e-06
+Moorgate,Liverpool Street LU,H&C and Circle,1.928091743896621e-06
+Moorgate,Liverpool Street LU,Metropolitan,3.57132801876236e-06
+Moorgate,Old Street,Northern,9.808974396195503e-07
+Morden,South Wimbledon,Northern,5.351008586274043e-06
+Mornington Crescent,Camden Town (Edgware),Northern,2.617802264244084e-06
+Mornington Crescent,Camden Town (High Barnet),Northern,2.379763811916392e-06
+Mornington Crescent,Euston LU,Northern,1.0969824492311758e-06
+Neasden,Dollis Hill,Jubilee,2.91927139146283e-06
+Neasden,Wembley Park,Jubilee,3.6137148125441638e-06
+Newbury Park,Barkingside,Central,9.67636384947935e-06
+Newbury Park,Gants Hill,Central,5.5219503858727105e-06
+Nine Elms,Battersea Power Station,Northern,5.3552529350588995e-06
+Nine Elms,Kennington (Charing Cross),Northern,3.4978404507845628e-06
+North Acton,East Acton,Central,2.0278475445865813e-06
+North Acton,Hanger Lane,Central,3.945212390113146e-06
+North Acton,West Acton,Central,6.7105239165792675e-06
+North Ealing,Ealing Common,Piccadilly,4.850829867179434e-06
+North Ealing,Park Royal,Piccadilly,5.023330206028172e-06
+North Greenwich,Canary Wharf LU,Jubilee,8.325787137266326e-07
+North Greenwich,Canning Town,Jubilee,9.078751713693676e-07
+North Harrow,Harrow-on-the-Hill,Metropolitan,4.028368304369696e-06
+North Harrow,Pinner,Metropolitan,4.760641386011417e-06
+North Wembley,South Kenton,Bakerloo,2.8627292954244297e-05
+North Wembley,Wembley Central,Bakerloo,1.8152996610366636e-05
+Northfields,Boston Manor,Piccadilly,2.4261416050113765e-06
+Northfields,South Ealing,Piccadilly,2.0933199632209236e-06
+Northolt,Greenford,Central,6.809575354253763e-06
+Northolt,South Ruislip,Central,1.670522197826317e-05
+Northwick Park,Harrow-on-the-Hill,Metropolitan,1.9100363321401873e-06
+Northwick Park,Preston Road,Metropolitan,1.6954730803916213e-06
+Northwood,Moor Park,Metropolitan,7.652917360772612e-06
+Northwood,Northwood Hills,Metropolitan,5.634807586710836e-06
+Northwood Hills,Northwood,Metropolitan,6.15697519519344e-06
+Northwood Hills,Pinner,Metropolitan,5.090188125790731e-06
+Notting Hill Gate,Bayswater,District,5.753098106556401e-06
+Notting Hill Gate,Bayswater,H&C and Circle,7.399375325736277e-06
+Notting Hill Gate,High Street Kensington,District,4.8241568427190415e-06
+Notting Hill Gate,High Street Kensington,H&C and Circle,3.7296961102731996e-06
+Notting Hill Gate,Holland Park,Central,1.3681795170730644e-06
+Notting Hill Gate,Queensway,Central,1.1238951270227923e-06
+Oakwood,Cockfosters,Piccadilly,3.0833527183247375e-05
+Oakwood,Southgate,Piccadilly,1.2299637776929181e-05
+Old Street,Angel,Northern,1.001246346566797e-06
+Old Street,Moorgate,Northern,9.740996489956024e-07
+Osterley,Boston Manor,Piccadilly,2.3672764753744035e-06
+Osterley,Hounslow East,Piccadilly,2.7171476244912077e-06
+Oval,Kennington (Bank),Northern,1.1468628931377398e-06
+Oval,Kennington (Charing Cross),Northern,1.1383860772085397e-05
+Oval,Stockwell,Northern,1.1383023835763983e-06
+Oxford Circus,Bond Street,Central,8.070022237387708e-07
+Oxford Circus,Green Park,Victoria,5.118893616398684e-07
+Oxford Circus,Piccadilly Circus,Bakerloo,1.3822863033722967e-06
+Oxford Circus,Regent's Park,Bakerloo,1.1818230608880677e-06
+Oxford Circus,Tottenham Court Road,Central,7.876531197900151e-07
+Oxford Circus,Warren Street,Victoria,4.811358858070522e-07
+Paddington TfL,Bayswater,District,7.0174344792380715e-06
+Paddington TfL,Bayswater,H&C and Circle,6.611521583054284e-06
+Paddington TfL,Edgware Road (Bak),Bakerloo,1.739125160022131e-06
+Paddington TfL,Edgware Road (DIS),District,1.4704962264290424e-05
+Paddington TfL,Edgware Road (DIS),H&C and Circle,1.6441666613280389e-06
+Paddington TfL,Royal Oak,H&C and Circle,2.4402818163939904e-06
+Paddington TfL,Warwick Avenue,Bakerloo,2.7419594777300196e-06
+Park Royal,Alperton,Piccadilly,5.5169621642911306e-06
+Park Royal,North Ealing,Piccadilly,5.013841126064522e-06
+Parsons Green,Fulham Broadway,District,1.6727731325755748e-06
+Parsons Green,Putney Bridge,District,1.886491125759101e-06
+Perivale,Greenford,Central,5.225782584615943e-06
+Perivale,Hanger Lane,Central,4.374982660483965e-06
+Piccadilly Circus,Charing Cross LU,Bakerloo,1.6055293542089174e-06
+Piccadilly Circus,Green Park,Piccadilly,9.221200090943352e-07
+Piccadilly Circus,Leicester Square,Piccadilly,1.0797198990377526e-06
+Piccadilly Circus,Oxford Circus,Bakerloo,1.2376332152295607e-06
+Pimlico,Vauxhall LU,Victoria,9.094904902936638e-07
+Pimlico,Victoria LU,Victoria,7.926513660850795e-07
+Pinner,North Harrow,Metropolitan,4.372682222008549e-06
+Pinner,Northwood Hills,Metropolitan,5.551931914713871e-06
+Plaistow,Upton Park,District,1.621394375087151e-06
+Plaistow,Upton Park,H&C and Circle,6.48032737863011e-06
+Plaistow,West Ham,District,1.5220913519353839e-06
+Plaistow,West Ham,H&C and Circle,5.218986628173609e-06
+Preston Road,Northwick Park,Metropolitan,1.7790674204827988e-06
+Preston Road,Wembley Park,Metropolitan,1.6279789999657678e-06
+Putney Bridge,East Putney,District,2.224741036191738e-06
+Putney Bridge,Parsons Green,District,1.9231429213412107e-06
+Queen's Park,Kensal Green,Bakerloo,8.098675617118357e-06
+Queen's Park,Kilburn Park,Bakerloo,4.086843317145207e-06
+Queensbury,Canons Park,Jubilee,9.30793691858938e-06
+Queensbury,Kingsbury,Jubilee,5.801003192989647e-06
+Queensway,Lancaster Gate,Central,1.007431089854005e-06
+Queensway,Notting Hill Gate,Central,1.1730213160671524e-06
+Ravenscourt Park,Hammersmith (DIS),District,2.302405078110468e-06
+Ravenscourt Park,Stamford Brook,District,2.595600960636777e-06
+Rayners Lane,Eastcote,Metropolitan,6.0871168041284535e-06
+Rayners Lane,Eastcote,Piccadilly,2.4869395933844723e-05
+Rayners Lane,South Harrow,Piccadilly,1.261824287189037e-05
+Rayners Lane,West Harrow,Metropolitan,4.592241618017192e-06
+Redbridge,Gants Hill,Central,3.7676265725556286e-06
+Redbridge,Wanstead,Central,3.059816615347847e-06
+Regent's Park,Baker Street,Bakerloo,1.218371978716701e-06
+Regent's Park,Oxford Circus,Bakerloo,1.253536849386373e-06
+Richmond,Kew Gardens,District,8.182904885839848e-06
+Rickmansworth,Chorleywood,Metropolitan,1.6803429397771492e-05
+Rickmansworth,Moor Park,Metropolitan,1.1103786772180456e-05
+Roding Valley,Chigwell,Central,7.275370369152558e-05
+Roding Valley,Woodford,Central,5.6401507306910595e-05
+Royal Oak,Paddington TfL,H&C and Circle,2.307600728377229e-06
+Royal Oak,Westbourne Park,H&C and Circle,2.5598271133685936e-06
+Ruislip,Ickenham,Metropolitan,8.623909780106621e-06
+Ruislip,Ickenham,Piccadilly,3.417657374510892e-05
+Ruislip,Ruislip Manor,Metropolitan,7.352452500334185e-06
+Ruislip,Ruislip Manor,Piccadilly,3.26374722267283e-05
+Ruislip Gardens,South Ruislip,Central,2.524881560084586e-05
+Ruislip Gardens,West Ruislip,Central,4.756277694176505e-05
+Ruislip Manor,Eastcote,Metropolitan,6.694024879497428e-06
+Ruislip Manor,Eastcote,Piccadilly,3.022552980486126e-05
+Ruislip Manor,Ruislip,Metropolitan,7.71051122475786e-06
+Ruislip Manor,Ruislip,Piccadilly,3.109881413604778e-05
+Russell Square,Holborn,Piccadilly,1.0673410872590682e-06
+Russell Square,King's Cross St. Pancras,Piccadilly,1.2136024084300077e-06
+Seven Sisters,Finsbury Park LU,Victoria,8.872464840663698e-07
+Seven Sisters,Tottenham Hale LU,Victoria,1.4203829665182387e-06
+Shepherd's Bush LU,Holland Park,Central,1.3659817785330259e-06
+Shepherd's Bush LU,White City,Central,1.8024670985502595e-06
+Shepherd's Bush Market,Goldhawk Road,H&C and Circle,5.0435071131540075e-06
+Shepherd's Bush Market,Wood Lane,H&C and Circle,3.982395386669791e-06
+Sloane Square,South Kensington,District,8.496060360223725e-07
+Sloane Square,South Kensington,H&C and Circle,4.022959509777685e-06
+Sloane Square,Victoria LU,District,7.485963555008901e-07
+Sloane Square,Victoria LU,H&C and Circle,2.9003806156899497e-06
+Snaresbrook,Leytonstone,Central,2.468568258891547e-06
+Snaresbrook,South Woodford,Central,2.691513329129238e-06
+South Ealing,Acton Town,Piccadilly,1.961386434383279e-06
+South Ealing,Northfields,Piccadilly,2.1851770559299072e-06
+South Harrow,Rayners Lane,Piccadilly,1.2938123740311894e-05
+South Harrow,Sudbury Hill,Piccadilly,9.065342551415023e-06
+South Kensington,Gloucester Road,District,9.750698852075793e-07
+South Kensington,Gloucester Road,H&C and Circle,4.66543042691975e-06
+South Kensington,Gloucester Road,Piccadilly,1.076957767989338e-06
+South Kensington,Knightsbridge,Piccadilly,1.0514433907599483e-06
+South Kensington,Sloane Square,District,7.959652755133943e-07
+South Kensington,Sloane Square,H&C and Circle,3.0367739676044685e-06
+South Kenton,Kenton,Bakerloo,3.3104175308985346e-05
+South Kenton,North Wembley,Bakerloo,2.1309170712000517e-05
+South Ruislip,Northolt,Central,1.5300044688059347e-05
+South Ruislip,Ruislip Gardens,Central,2.7873170798903218e-05
+South Wimbledon,Colliers Wood,Northern,3.846021989143345e-06
+South Wimbledon,Morden,Northern,5.640897034783958e-06
+South Woodford,Snaresbrook,Central,2.6726948127290316e-06
+South Woodford,Woodford,Central,3.346336739990696e-06
+Southfields,East Putney,District,2.8171165997814534e-06
+Southfields,Wimbledon Park,District,3.153387493633007e-06
+Southgate,Arnos Grove,Piccadilly,6.38053818946084e-06
+Southgate,Oakwood,Piccadilly,1.2165442583069817e-05
+Southwark,London Bridge LU,Jubilee,5.719387886597001e-07
+Southwark,Waterloo LU,Jubilee,5.756266222391311e-07
+St. James's Park,Victoria LU,District,9.746267487530625e-07
+St. James's Park,Victoria LU,H&C and Circle,4.265719575666407e-06
+St. James's Park,Westminster,District,9.189973437227825e-07
+St. James's Park,Westminster,H&C and Circle,3.7779429553455182e-06
+St. John's Wood,Baker Street,Jubilee,1.014411386959921e-06
+St. John's Wood,Swiss Cottage,Jubilee,1.2379381742286576e-06
+St. Paul's,Bank and Monument,Central,6.916181582126285e-07
+St. Paul's,Chancery Lane,Central,6.578405185618411e-07
+Stamford Brook,Ravenscourt Park,District,2.482258078919587e-06
+Stamford Brook,Turnham Green,District,2.7785043327636762e-06
+Stanmore,Canons Park,Jubilee,1.5187262961912242e-05
+Stepney Green,Mile End,District,1.7890273464140712e-06
+Stepney Green,Mile End,H&C and Circle,5.453993743285031e-06
+Stepney Green,Whitechapel,District,1.7330659175545668e-06
+Stepney Green,Whitechapel,H&C and Circle,5.057974228631126e-06
+Stockwell,Brixton LU,Victoria,2.255336185196495e-06
+Stockwell,Clapham North,Northern,9.376642627071171e-07
+Stockwell,Oval,Northern,1.1002253218617892e-06
+Stockwell,Vauxhall LU,Victoria,1.224359789826699e-06
+Stonebridge Park,Harlesden,Bakerloo,1.0345385166378413e-05
+Stonebridge Park,Wembley Central,Bakerloo,1.548787156645964e-05
+Stratford,Leyton,Central,1.0120479847039092e-06
+Stratford,Mile End,Central,8.710374080176203e-07
+Stratford,West Ham,Jubilee,1.435152344016355e-06
+Sudbury Hill,South Harrow,Piccadilly,9.21138985924415e-06
+Sudbury Hill,Sudbury Town,Piccadilly,7.732464270478637e-06
+Sudbury Town,Alperton,Piccadilly,6.558787400359344e-06
+Sudbury Town,Sudbury Hill,Piccadilly,7.823036724102996e-06
+Swiss Cottage,Finchley Road,Jubilee,1.3482124504446238e-06
+Swiss Cottage,St. John's Wood,Jubilee,1.097174159458887e-06
+Temple,Blackfriars LU,District,1.0767064681637388e-06
+Temple,Blackfriars LU,H&C and Circle,4.907522100609455e-06
+Temple,Embankment,District,1.0711304626922063e-06
+Temple,Embankment,H&C and Circle,4.847493875263865e-06
+Theydon Bois,Debden,Central,1.1298305384791103e-05
+Theydon Bois,Epping,Central,1.3456358806991866e-05
+Tooting Bec,Balham LU,Northern,1.4466755347738695e-06
+Tooting Bec,Tooting Broadway,Northern,1.8034962590725916e-06
+Tooting Broadway,Colliers Wood,Northern,2.880540772184948e-06
+Tooting Broadway,Tooting Bec,Northern,1.7141276304060084e-06
+Tottenham Court Road,Goodge Street,Northern,9.933204307086151e-07
+Tottenham Court Road,Holborn,Central,7.432705205497281e-07
+Tottenham Court Road,Leicester Square,Northern,9.153342313544037e-07
+Tottenham Court Road,Oxford Circus,Central,7.710723050159977e-07
+Tottenham Hale LU,Blackhorse Road,Victoria,2.1182167974004795e-06
+Tottenham Hale LU,Seven Sisters,Victoria,1.3385984756939125e-06
+Totteridge & Whetstone,High Barnet,Northern,1.4811254385022591e-05
+Totteridge & Whetstone,Woodside Park,Northern,8.798274872378874e-06
+Tower Hill,Aldgate,H&C and Circle,6.999815741377133e-06
+Tower Hill,Aldgate East,District,1.53484525033319e-06
+Tower Hill,Bank and Monument,District,1.3059637750611294e-06
+Tower Hill,Bank and Monument,H&C and Circle,6.557756276868114e-06
+Tufnell Park,Archway,Northern,1.5411741810654244e-06
+Tufnell Park,Kentish Town,Northern,1.3957377947260092e-06
+Turnham Green,Acton Town,Piccadilly,1.4840353871519317e-06
+Turnham Green,Chiswick Park,District,8.917125493875358e-06
+Turnham Green,Gunnersbury,District,4.724671518011857e-06
+Turnham Green,Hammersmith (DIS),Piccadilly,1.4361037656303413e-06
+Turnham Green,Stamford Brook,District,2.6726085515339537e-06
+Turnpike Lane,Manor House,Piccadilly,1.6095849707815513e-06
+Turnpike Lane,Wood Green,Piccadilly,2.1949578628793566e-06
+Upminster,Upminster Bridge,District,3.0644736775239675e-05
+Upminster Bridge,Hornchurch,District,2.2382787480924077e-05
+Upminster Bridge,Upminster,District,2.7438755571898837e-05
+Upney,Barking,District,2.94116927280568e-06
+Upney,Becontree,District,3.381702665351588e-06
+Upton Park,East Ham,District,1.892992432546977e-06
+Upton Park,East Ham,H&C and Circle,8.518893703920442e-06
+Upton Park,Plaistow,District,1.6262846769404925e-06
+Upton Park,Plaistow,H&C and Circle,5.861176996640352e-06
+Uxbridge,Hillingdon,Metropolitan,1.0653799630473699e-05
+Uxbridge,Hillingdon,Piccadilly,4.514865410923274e-05
+Vauxhall LU,Pimlico,Victoria,8.696070431079316e-07
+Vauxhall LU,Stockwell,Victoria,1.280379827712432e-06
+Victoria LU,Green Park,Victoria,4.85974814854588e-07
+Victoria LU,Pimlico,Victoria,8.281805454317268e-07
+Victoria LU,Sloane Square,District,8.024762017933395e-07
+Victoria LU,Sloane Square,H&C and Circle,3.7199728386250166e-06
+Victoria LU,St. James's Park,District,9.324341880685348e-07
+Victoria LU,St. James's Park,H&C and Circle,3.7136288280624232e-06
+Walthamstow Central,Blackhorse Road,Victoria,3.2905301664347892e-06
+Wanstead,Leytonstone,Central,2.7790632263341325e-06
+Wanstead,Redbridge,Central,3.2838574524629847e-06
+Warren Street,Euston LU,Northern,1.057010071604317e-06
+Warren Street,Euston LU,Victoria,4.838252373716445e-07
+Warren Street,Goodge Street,Northern,9.545300398619604e-07
+Warren Street,Oxford Circus,Victoria,4.856191149391965e-07
+Warwick Avenue,Maida Vale,Bakerloo,3.2267911349921123e-06
+Warwick Avenue,Paddington TfL,Bakerloo,2.486615668351325e-06
+Waterloo LU,Bank and Monument,Waterloo & City,6.145709071741533e-06
+Waterloo LU,Embankment,Bakerloo,1.981621327417467e-06
+Waterloo LU,Embankment,Northern,1.1121158425240694e-06
+Waterloo LU,Kennington (Charing Cross),Northern,1.7926435596539564e-06
+Waterloo LU,Lambeth North,Bakerloo,5.799993231178989e-06
+Waterloo LU,Southwark,Jubilee,5.631179843622246e-07
+Waterloo LU,Westminster,Jubilee,6.889552128941373e-07
+Watford,Croxley,Metropolitan,2.8998199334219503e-05
+Wembley Central,North Wembley,Bakerloo,2.4075605182709558e-05
+Wembley Central,Stonebridge Park,Bakerloo,1.3619864953139475e-05
+Wembley Park,Finchley Road,Metropolitan,1.3551112851835102e-06
+Wembley Park,Kingsbury,Jubilee,4.343802354339681e-06
+Wembley Park,Neasden,Jubilee,3.2436564077697517e-06
+Wembley Park,Preston Road,Metropolitan,1.7093253485522919e-06
+West Acton,Ealing Broadway,Central,7.1848658819075135e-06
+West Acton,North Acton,Central,6.070527462923494e-06
+West Brompton,Earl's Court,District,1.3193568099568634e-06
+West Brompton,Fulham Broadway,District,1.4425186015990244e-06
+West Finchley,Finchley Central,Northern,5.255191554486662e-06
+West Finchley,Woodside Park,Northern,5.015736773844796e-06
+West Ham,Bromley-by-Bow,District,1.8151480403710216e-06
+West Ham,Bromley-by-Bow,H&C and Circle,5.743773324963193e-06
+West Ham,Canning Town,Jubilee,1.1240563759418854e-06
+West Ham,Plaistow,District,1.5260645349102713e-06
+West Ham,Plaistow,H&C and Circle,5.8095175364820635e-06
+West Ham,Stratford,Jubilee,1.3241590889884644e-06
+West Hampstead LU,Finchley Road,Jubilee,1.5558121381150273e-06
+West Hampstead LU,Kilburn,Jubilee,2.0119894673371525e-06
+West Harrow,Harrow-on-the-Hill,Metropolitan,4.37189628132401e-06
+West Harrow,Rayners Lane,Metropolitan,4.779735212013863e-06
+West Kensington,Barons Court,District,2.2582237710032625e-06
+West Kensington,Earl's Court,District,1.7299753805654773e-06
+West Ruislip,Ruislip Gardens,Central,4.2554846209081254e-05
+Westbourne Park,Ladbroke Grove,H&C and Circle,2.767143776079378e-06
+Westbourne Park,Royal Oak,H&C and Circle,2.4346736539605135e-06
+Westminster,Embankment,District,1.0793264522953322e-06
+Westminster,Embankment,H&C and Circle,4.604524767201136e-06
+Westminster,Green Park,Jubilee,7.301017293501982e-07
+Westminster,St. James's Park,District,9.587678303195277e-07
+Westminster,St. James's Park,H&C and Circle,4.22819960246033e-06
+Westminster,Waterloo LU,Jubilee,6.876652899468738e-07
+White City,East Acton,Central,2.0104678302938523e-06
+White City,Shepherd's Bush LU,Central,1.719684552229768e-06
+Whitechapel,Aldgate East,District,1.7894709596322694e-06
+Whitechapel,Aldgate East,H&C and Circle,5.181406586887268e-06
+Whitechapel,Stepney Green,District,1.7237392086323703e-06
+Whitechapel,Stepney Green,H&C and Circle,5.149536733254314e-06
+Willesden Green,Dollis Hill,Jubilee,2.9279296063777364e-06
+Willesden Green,Kilburn,Jubilee,2.1227492919814946e-06
+Willesden Junction,Harlesden,Bakerloo,9.945698609858026e-06
+Willesden Junction,Kensal Green,Bakerloo,8.177215422725392e-06
+Wimbledon,Wimbledon Park,District,3.4992566743126727e-06
+Wimbledon Park,Southfields,District,3.354517758528811e-06
+Wimbledon Park,Wimbledon,District,3.2685058655929185e-06
+Wood Green,Bounds Green,Piccadilly,3.369378573217601e-06
+Wood Green,Turnpike Lane,Piccadilly,2.1314712342128377e-06
+Wood Lane,Latimer Road,H&C and Circle,3.4464506400235577e-06
+Wood Lane,Shepherd's Bush Market,H&C and Circle,4.244392577355211e-06
+Woodford,Buckhurst Hill,Central,4.909338268962072e-06
+Woodford,Roding Valley,Central,5.291626503030286e-05
+Woodford,South Woodford,Central,3.2994455417705214e-06
+Woodside Park,Totteridge & Whetstone,Northern,9.355977356583888e-06
+Woodside Park,West Finchley,Northern,6.038175523760106e-06

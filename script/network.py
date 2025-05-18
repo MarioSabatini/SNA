@@ -4,7 +4,7 @@ from pyvis.network import Network
 
 # === Config ===
 csv_file = "../data/filtered_weekly_link_loads.csv"
-output_file = "grafo_senza_critici.html"
+output_file = "grafo.html"
 
 # === Line colors ===
 line_colors = {
@@ -32,14 +32,6 @@ for _, row in df.iterrows():
 # === Calculate betweenness centrality ===
 centrality = nx.betweenness_centrality(G, weight='weight', normalized=True)
 top3_nodes = sorted(centrality.items(), key=lambda x: x[1], reverse=True)[:3]
-#nodes_to_remove = [n for n, _ in top3_nodes]
-
-print(" Rimuovendo i nodi critici:")
-#for name in nodes_to_remove:
-#    print(f"- {name}")
-
-# === Remove critical nodes ===
-#G.remove_nodes_from(nodes_to_remove)
 
 # === Create PyVis network ===
 net = Network(height="800px", width="100%", directed=True)

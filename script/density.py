@@ -4,8 +4,8 @@ import networkx as nx
 # Carica CSV
 df = pd.read_csv("../data/filtered_weekly_link_loads.csv")
 
-# Crea grafo non diretto
-G = nx.Graph()
+# Crea grafo diretto
+G = nx.DiGraph()
 for _, row in df.iterrows():
     G.add_edge(row["From"], row["To"], weight=row["Load"])
 
